@@ -8,7 +8,7 @@ The function was made to handle custom changes in phrases and letters by adding 
 new dictionaries.
 
 PAGE_REPORT
-As above all information included in the source code.
+As above, all information included in the source code.
 
 
 
